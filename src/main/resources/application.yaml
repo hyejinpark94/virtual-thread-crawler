@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: virtual-thread
+  cache:
+    type: redis
+  redis:
+    host: localhost
+    port: 6379
